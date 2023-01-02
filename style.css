@@ -1,4 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 body{
 font-family: 'Inter', sans-serif;
+text-align: center;
+margin-top: 205px;
+}
+hr{
+border: 1px solid;   
+}
+#heading-par1{
+    font-size: 54px;
+    font-weight: 400;
+}
+.main p{
+    font-size: 20px;
+}
+.article p{
+    font-size: 22px;
+}
+.heading-par2{
+    font-size: 44px;
+    font-weight: 400;
 }
