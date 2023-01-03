@@ -21,3 +21,23 @@ border: 1px solid;
     font-size: 44px;
     font-weight: 400;
 }
+.article{
+display: grid;
+grid-area:
+'a b'
+'c d'
+;
+
+}
+.blog1{
+    grid-area: a ;
+}
+.blog2{
+    grid-area: b ;
+}
+.blog3{
+    grid-area: c ;
+}
+.blog4{
+    grid-area: d ;
+}
