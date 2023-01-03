@@ -21,7 +21,7 @@ border: 1px solid;
     font-size: 44px;
     font-weight: 400;
 }
-.article{
+.article-container{
 display: grid;
 grid-area:
 'a b'
