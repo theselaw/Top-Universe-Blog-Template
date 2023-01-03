@@ -41,3 +41,6 @@ grid-area:
 .blog4{
     grid-area: d ;
 }
+a{
+ text-decoration: none;
+}
