@@ -23,7 +23,7 @@ border: 1px solid;
 }
 .article-container{
 display: grid;
-grid-area:
+grid-template-areas:
 'a b'
 'c d'
 ;
